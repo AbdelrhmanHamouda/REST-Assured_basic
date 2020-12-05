@@ -1,2 +1,4 @@
-package simpleGetRequest;public class ParameterizingTests {
+package simpleGetRequest;
+
+public class ParameterizingTests {
 }
